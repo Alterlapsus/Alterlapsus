@@ -1,5 +1,13 @@
 ### Hi there 👋
+<img width="1000" height="350" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
+  
+```JS
 
+const IsraelDeLeonDev = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS,],
+}
+```
 <!--
 **IsraelDeLeonDEV/IsraelDeLeonDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
