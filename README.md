@@ -1,11 +1,11 @@
 ### Hi there 👋
   
   <p align="center" width="300">
-   <img width="900" height="350" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
+   <img aling="center" width="900" height="350" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
    <h3 align="center">¡Hey 👋! i am IsraelDeLeonDEV 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I am <strong> Junior Front-End Development</strong> Systems engineering student<br />¡Take a look  👇!</p>
+<p align="center">I am <strong> Junior Front-End Development</strong> Systems Engineering Student<br />¡Take a look  👇!</p>
 <p align="center">
    <a href="https://www.youtube.com/channel/UC1j4GQh_Rcghz-PIFFdUarw" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="IsraelDeLeon" height="28px" width="28px" />
