@@ -1,8 +1,8 @@
-### Hi there 👋
+### console.log("Hello Word 👋")
   
   <p align="center" width="300">
-   <img aling="center" width="900" height="350" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
-   <h3 align="center">¡Hey 👋! i am IsraelDeLeonDEV 👨🏻‍💻</h3>
+   <img aling="center" width="800" height="350" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
+   <h3 align="center">¡Hey 👋! i am IsraelDeLeonDEV💻</h3>
 </p>
 
 <p align="center">I am <strong> Junior Front-End Development</strong> Systems Engineering Student<br />¡Take a look  👇!</p>
