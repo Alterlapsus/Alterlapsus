@@ -7,7 +7,7 @@
 
 <p align="center">I am<strong> Junior Frontend Development</strong> and studying systems engineering<br />¡Take a look  👇!</p>
 <p align="center">
-   <a href="https://www.youtube.com/channel/UC1j4GQh_Rcghz-PIFFdUarw" target="blank" style='margin-right:4px'>
+   <a href="https://www.youtube.com/channel/UCOStO4uHUT9cLv_gvGwgdNA" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="IsraelDeLeon" height="28px" width="28px" />
   </a>
   <a href="https://www.instagram.com/israel.delen._/" target="_blank">
