@@ -5,7 +5,7 @@
    <h3 align="center">¡Hey 👋! I am IsraelDeLeon💻</h3>
 </p>
 
-<p align="center">I am<strong> Junior Frontend Development</strong> and studying systems engineering<br />¡Take a look  👇!</p>
+<p align="center">I am<strong> Junior Frontend Development!</strong> and studying systems engineering<br />¡Take a look  👇!</p>
 <p align="center">
   <a href="https://twitter.com/Ruben96Israel" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ruben96Israel" height="28px" width="28px" />
