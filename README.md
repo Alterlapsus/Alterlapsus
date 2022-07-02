@@ -1,4 +1,4 @@
-### console.log("Hello World 👋")
+### console.log("Hello World👋")
   
   <p align="center" width="300">
    <img aling="center" width="800" height="250" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
