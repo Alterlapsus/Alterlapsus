@@ -10,22 +10,21 @@
   <a href="https://twitter.com/Ruben96Israel" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ruben96Israel" height="28px" width="20px" />
   </a>
-   <a href="https://www.linkedin.com/in/israel-de-le%C3%B3n-53a541185/" target="_blank">
+   <a href="https://www.linkedin.com/in/israel-de-le%C3%B3n-53a541185/ target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IsraelDeLeon" target="_blank" height="28px" width="20px" />
   </a>
 </p>
 
-<!--
-**IsraelDeLeonDEV/IsraelDeLeonDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+About me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning PHP, JAVASCRIPT...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
