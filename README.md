@@ -25,7 +25,10 @@ About me:
 - JAVASCRIPT and PHP 
 - SQL and GIT
 
+---
+
 - 👯 Teamwork
 - 💬 Ask me about the technologies I handle
 - 📫 How to contact me: by linkedin or twitter
+
 ---
