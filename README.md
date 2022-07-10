@@ -19,11 +19,9 @@
 
 About me: 
 
-- ⚡  I’m currently learning HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP, SQL, GIT...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-
-
+- ⚡  I’m currently learning:
+-HTML -CSS BOOTSTRAP, JAVASCRIPT, PHP, SQL, GIT
+-👯 Teamwork
+- 💬 Ask me about the technologies I handle
+- 📫 How to contact me: by linkedin or twitter
 ---
