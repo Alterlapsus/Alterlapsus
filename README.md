@@ -21,8 +21,9 @@ About me:
 
   ⚡  I’m currently learning:
 - HTML 
-- CSS 
-- BOOTSTRAP - JAVASCRIPT - PHP - SQL - GIT
+- CSS and BOOTSTRAP 
+- JAVASCRIPT and PHP 
+- SQL and GIT
 
 - 👯 Teamwork
 - 💬 Ask me about the technologies I handle
