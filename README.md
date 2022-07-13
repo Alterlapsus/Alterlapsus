@@ -23,7 +23,7 @@ About me:
 - HTML 
 - CSS and BOOTSTRAP 
 - JAVASCRIPT and PHP 
-- MYSQL-SQL 
+- MYSQL - SQL 
 - GIT - GITHUB
 
 ---
