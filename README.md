@@ -17,7 +17,7 @@
 
 ---
 
-About me: 
+ <strong>About me: </strong>
 
   ⚡  I’m currently learning:
 - HTML 
