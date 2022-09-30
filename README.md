@@ -49,7 +49,6 @@
                                                                                                                                                  
 <br><br><br>
 
-![Snake animation](https://github.com/Alterlapsus/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
