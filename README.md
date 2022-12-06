@@ -12,8 +12,9 @@
    <a href="https://www.linkedin.com/in/israel-de-le%C3%B3n-53a541185/ target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IsraelDeLeon" target="_blank" width="30px" />
   </a>
+
 </p>
-                                                                                                                                                
+
 ---
 
  <strong>About me: </strong>
