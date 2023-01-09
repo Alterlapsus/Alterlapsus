@@ -15,7 +15,7 @@
 
 </p>
 
----
+--- 
 
  <strong>About me: </strong>
 
