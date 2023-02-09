@@ -44,7 +44,7 @@
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/mongodb/mongo/281908cc5de1febaceb529c4f2a985de43b9b375/docs/leaf.svg" />
 
-<br>
+<br><br>
 
 #### Tools:
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
