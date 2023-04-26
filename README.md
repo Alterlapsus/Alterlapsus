@@ -54,6 +54,3 @@
 <img align="left" alt="npm" width="30px" src="https://github.com/IsmaelDS/ImagenesLenguajes/blob/master/imagenesLogos/npmLogo.png?raw=true" />                                                                                                           
 <br>
 
-
----
-
