@@ -13,10 +13,10 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IsraelDeLeon" target="_blank" width="30px" />
   </a>
 
-</p>
+</p> 
 
 --- 
-
+ 
  <strong>About me: </strong>
 
   ⚡  I’m currently learning:
