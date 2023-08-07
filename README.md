@@ -2,7 +2,7 @@
    
   <p align="center"><img  aling="center" width="700px" height="300px" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
    <h3 align="center">¡Hey 👋! I'm Israel De Leon💻</h3>
-</p>
+</p> 
  
 <p align="center">I'm a<strong> Junior Frontend Development!</strong> and I'm studying systems engineering<br />¡Take a look  👇!</p>
 <p align="center">
