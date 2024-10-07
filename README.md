@@ -4,7 +4,7 @@
    <h3 align="center">¡Hey 👋! I'm Israel De Leon💻</h3>
 </p>   
  
-<p align="center">I'm a<strong> MERN FullStack Development!</strong> and I'm studying systems engineering<br />¡Take a look  👇!</p>
+<p align="center">I'm a<strong> MERN FullStack Development!</strong> <br />¡Take a look  👇!</p>
 <p align="center">
   <a href="https://twitter.com/Ruben96Israel" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ruben96Israel" width="30px" />
