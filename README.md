@@ -1,77 +1,141 @@
-### <p align="center"> console.log("Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">") </p>
-   
-<p align="center">
-  <img align="center" width="700px" height="300px" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
-  <h3 align="center">Hey 👋! I'm Israel De Leon 💻</h3>
-</p>   
- 
-<p align="center">
-  I'm a <strong>Full Stack Developer</strong> with experience in both front-end and back-end development.<br />Take a look 👇!
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/israel-de-le%C3%B3n-53a541185/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IsraelDeLeon" width="30px" />
-  </a>
-</p> 
+<div align="center">
+  
+  # Hello World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+  
+  <img src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png" width="70%" alt="banner">
+  
+  <h1>👨‍💻 Israel De Leon</h1>
+  <h3>Full Stack Developer</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-de-le%C3%B3n-53a541185/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alterlapsus)
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+the+future+one+line+at+a+time;Always+learning,+always+growing" alt="Typing SVG" />
+  </div>
+  
+</div>
 
 ---
 
-<strong>About me:</strong>
+## 💫 About Me
 
-⚡ Currently working on various projects and continuously learning new technologies.
+```javascript
+const israelDeLeon = {
+  location: "Guatemala",
+  title: "Full Stack Developer",
+  focus: "Web & Mobile Applications",
+  currentProjects: ["Diverse projects", "Continuous learning of new technologies"],
+  hobbies: ["Coding", "Reading", "Running"],
+  lifePhilosophy: "Solve problems with elegant solutions"
+};
+```
 
-#### Languages:
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" />
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sass.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" />
-<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" />
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cplusplus.svg" />
-<br><br>
+---
 
-#### Frameworks & Platforms:
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" />
-<img align="left" alt="Redux" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/redux.svg" />
-<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/laravel.svg" />
-<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bootstrap.svg" />
-<img align="left" alt="Ionic" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ionic.svg" />
-<br><br>
+## 🛠️ Technology Stack
 
-#### Data:
-<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sqlite.svg" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://img.icons8.com/?size=100&id=36440&format=png&color=000000" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" />
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg" />
-<img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" />
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg" />
-<br><br>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+          <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+          <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+          <img src="https://img.shields.io/badge/RESTful%20API-007ACC?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Database</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+          <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#### Tools:
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<!-- Visual Studio Code in black -->
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" />
-<img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gitlab.svg" />
-<img align="left" alt="npm" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/npm.svg" />
-<br><br>
+<div align="center">
+  <h3>Tools & Methodologies</h3>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white" alt="BEM" />
+  <img src="https://img.shields.io/badge/Agile_Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+</div>
 
-#### Testing Tools:
-<img align="left" alt="JUnit" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/junit5.svg" />
-<img align="left" alt="Postman" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postman.svg" />
-<img align="left" alt="Selenium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/selenium.svg" />
-<img align="left" alt="Cypress" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cypress.svg" />
-<br><br>
+<div align="center">
+  <h3>Operating Systems</h3>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</div>
 
-#### Operating Systems:
-<img align="left" alt="Apple" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apple.svg" />
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" />
-<img align="left" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/windows.svg" />
-<br><br>
+---
 
-#### Methodologies & Practices:
-<strong>BEM</strong> | <strong>Agile Scrum</strong> 
-<img align="left" alt="Azure DevOps" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/azuredevops.svg" />
-<br><br>
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/israel-de-le%C3%B3n-53a541185/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alterlapsus&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House ⚡
+  
+  #### Thanks for visiting my profile! 👨‍💻
+
+</div>
