@@ -1,10 +1,10 @@
 ### <p align="center"> console.log("Hello World <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">") </p>
    
   <p align="center"><img  aling="center" width="700px" height="300px" alt="card" src="https://user-images.githubusercontent.com/55032696/146093554-0a4c018a-d0c2-4c30-9693-63fbc1e1fe20.png">
-   <h3 align="center">¡Hey 👋! I'm Israel De Leon💻</h3>
+   <h3 align="center">¡Hey 👋! I'm Israel De Leon 💻</h3>
 </p>   
  
-<p align="center">I'm a<strong> MERN FullStack Development!</strong> <br />¡Take a look  👇!</p>
+<p align="center">I'm a<strong> FullStack Development!</strong> <br />¡Take a look  👇!</p>
 <p align="center">
   <a href="https://twitter.com/Ruben96Israel" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ruben96Israel" width="30px" />
@@ -19,7 +19,7 @@
  
  <strong>About me: </strong>
 
-  ⚡  I’m currently learning:
+  ⚡ Currently
 
 #### Languages:
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
