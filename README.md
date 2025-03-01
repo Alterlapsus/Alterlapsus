@@ -4,11 +4,8 @@
    <h3 align="center">¡Hey 👋! I'm Israel De Leon 💻</h3>
 </p>   
  
-<p align="center">I'm a<strong> Full Stack Development!</strong> <br />¡Take a look  👇!</p>
+<p align="center">I'm a<strong> Full Stack Developer!</strong> <br />¡Take a look  👇!</p>
 <p align="center">
-  <a href="https://twitter.com/Ruben96Israel" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ruben96Israel" width="30px" />
-  </a>
    <a href="https://www.linkedin.com/in/israel-de-le%C3%B3n-53a541185/ target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IsraelDeLeon" target="_blank" width="30px" />
   </a>
